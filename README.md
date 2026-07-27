@@ -132,7 +132,7 @@ npm run test
 ## 📸 Snapshots & Video Walkthrough
 
 - **Mobile Viewport (375px) Layout**: ![alt text](image-4.png)
-- **CI/CD green checks pipeline**: ![alt text](image-3.png)
+- **CI/CD green checks pipeline**: ![alt text](image-7.png)
 - **cargo test passes (3+) run**:![alt text](image-5.png))
 - **Loom/YouTube Demo Walkthrough video**: https://youtu.be/sKlQi5rZBVk
 
